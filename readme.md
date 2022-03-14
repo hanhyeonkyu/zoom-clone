@@ -1,3 +1,3 @@
 # zoom clone
 
-zoom clone using web rtc, websocket
+zoom clone using Web RTC(Web Real Time Communication), WebSocket
